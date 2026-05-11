@@ -2,6 +2,7 @@
     {
         "name": "Europe/Andorra",
         "country_code": "AD",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Andorra la Vella",
@@ -101,6 +102,7 @@
     {
         "name": "Asia/Dubai",
         "country_code": "AE",
+        "utc_offset_minutes": 240,
         "cities": [
             {
                 "name": "Dubai",
@@ -399,6 +401,7 @@
     {
         "name": "Asia/Kabul",
         "country_code": "AF",
+        "utc_offset_minutes": 270,
         "cities": [
             {
                 "name": "Kabul",
@@ -632,6 +635,7 @@
     {
         "name": "America/Antigua",
         "country_code": "AG",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Saint John’s",
@@ -674,6 +678,7 @@
     {
         "name": "America/Anguilla",
         "country_code": "AI",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "The Valley",
@@ -717,6 +722,7 @@
     {
         "name": "Europe/Tirane",
         "country_code": "AL",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Tirana",
@@ -977,6 +983,7 @@
     {
         "name": "Asia/Yerevan",
         "country_code": "AM",
+        "utc_offset_minutes": 240,
         "cities": [
             {
                 "name": "Yerevan",
@@ -1098,6 +1105,7 @@
     {
         "name": "Africa/Luanda",
         "country_code": "AO",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Luanda",
@@ -1315,6 +1323,7 @@
     {
         "name": "America/Argentina/Buenos_Aires",
         "country_code": "AR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Buenos Aires",
@@ -1536,6 +1545,7 @@
     {
         "name": "America/Argentina/Cordoba",
         "country_code": "AR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Córdoba",
@@ -1776,6 +1786,7 @@
     {
         "name": "America/Argentina/Salta",
         "country_code": "AR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Salta",
@@ -1962,6 +1973,7 @@
     {
         "name": "America/Argentina/Tucuman",
         "country_code": "AR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "San Miguel de Tucumán",
@@ -2093,6 +2105,7 @@
     {
         "name": "America/Argentina/San_Juan",
         "country_code": "AR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "San Juan",
@@ -2220,6 +2233,7 @@
     {
         "name": "America/Argentina/Ushuaia",
         "country_code": "AR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Ushuaia",
@@ -2321,6 +2335,7 @@
     {
         "name": "America/Argentina/Catamarca",
         "country_code": "AR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Catamarca",
@@ -2486,6 +2501,7 @@
     {
         "name": "America/Argentina/Jujuy",
         "country_code": "AR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "San Salvador de Jujuy",
@@ -2646,6 +2662,7 @@
     {
         "name": "America/Argentina/Mendoza",
         "country_code": "AR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "San Rafael",
@@ -2781,6 +2798,7 @@
     {
         "name": "America/Argentina/San_Luis",
         "country_code": "AR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "San Luis",
@@ -2847,6 +2865,7 @@
     {
         "name": "America/Argentina/Rio_Gallegos",
         "country_code": "AR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Río Gallegos",
@@ -2916,6 +2935,7 @@
     {
         "name": "America/Argentina/La_Rioja",
         "country_code": "AR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "La Rioja",
@@ -3047,6 +3067,7 @@
     {
         "name": "Pacific/Pago_Pago",
         "country_code": "AS",
+        "utc_offset_minutes": -660,
         "cities": [
             {
                 "name": "Pago Pago",
@@ -3096,6 +3117,7 @@
     {
         "name": "Europe/Vienna",
         "country_code": "AT",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Vienna",
@@ -3327,6 +3349,7 @@
     {
         "name": "Australia/Perth",
         "country_code": "AU",
+        "utc_offset_minutes": 480,
         "cities": [
             {
                 "name": "Perth",
@@ -3539,6 +3562,7 @@
     {
         "name": "Australia/Brisbane",
         "country_code": "AU",
+        "utc_offset_minutes": 600,
         "cities": [
             {
                 "name": "Brisbane",
@@ -3704,6 +3728,7 @@
     {
         "name": "Australia/Adelaide",
         "country_code": "AU",
+        "utc_offset_minutes": 570,
         "cities": [
             {
                 "name": "Adelaide",
@@ -3858,6 +3883,7 @@
     {
         "name": "Australia/Darwin",
         "country_code": "AU",
+        "utc_offset_minutes": 570,
         "cities": [
             {
                 "name": "Darwin",
@@ -4026,6 +4052,7 @@
     {
         "name": "Australia/Melbourne",
         "country_code": "AU",
+        "utc_offset_minutes": 600,
         "cities": [
             {
                 "name": "Melbourne",
@@ -4270,6 +4297,7 @@
     {
         "name": "Australia/Sydney",
         "country_code": "AU",
+        "utc_offset_minutes": 600,
         "cities": [
             {
                 "name": "Sydney",
@@ -4575,6 +4603,7 @@
     {
         "name": "Australia/Hobart",
         "country_code": "AU",
+        "utc_offset_minutes": 600,
         "cities": [
             {
                 "name": "Hobart",
@@ -4784,6 +4813,7 @@
     {
         "name": "Australia/Broken_Hill",
         "country_code": "AU",
+        "utc_offset_minutes": 570,
         "cities": [
             {
                 "name": "Broken Hill",
@@ -4858,6 +4888,7 @@
     {
         "name": "America/Aruba",
         "country_code": "AW",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Oranjestad",
@@ -4925,6 +4956,7 @@
     {
         "name": "Europe/Mariehamn",
         "country_code": "AX",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Mariehamn",
@@ -4964,6 +4996,7 @@
     {
         "name": "Asia/Baku",
         "country_code": "AZ",
+        "utc_offset_minutes": 240,
         "cities": [
             {
                 "name": "Baku",
@@ -5208,6 +5241,7 @@
     {
         "name": "Europe/Sarajevo",
         "country_code": "BA",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Sarajevo",
@@ -5500,6 +5534,7 @@
     {
         "name": "America/Barbados",
         "country_code": "BB",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Bridgetown",
@@ -5541,6 +5576,7 @@
     {
         "name": "Asia/Dhaka",
         "country_code": "BD",
+        "utc_offset_minutes": 360,
         "cities": [
             {
                 "name": "Dhaka",
@@ -5820,6 +5856,7 @@
     {
         "name": "Europe/Brussels",
         "country_code": "BE",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Brussels",
@@ -6104,6 +6141,7 @@
     {
         "name": "Africa/Ouagadougou",
         "country_code": "BF",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Ouagadougou",
@@ -6279,6 +6317,7 @@
     {
         "name": "Europe/Sofia",
         "country_code": "BG",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Sofia",
@@ -6610,6 +6649,7 @@
     {
         "name": "Asia/Bahrain",
         "country_code": "BH",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Al Muharraq",
@@ -6809,6 +6849,7 @@
     {
         "name": "Africa/Bujumbura",
         "country_code": "BI",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Bujumbura",
@@ -6952,6 +6993,7 @@
     {
         "name": "Africa/Porto-Novo",
         "country_code": "BJ",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Cotonou",
@@ -7125,6 +7167,7 @@
     {
         "name": "America/St_Barthelemy",
         "country_code": "BL",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Gustavia",
@@ -7158,6 +7201,7 @@
     {
         "name": "Atlantic/Bermuda",
         "country_code": "BM",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Hamilton",
@@ -7201,6 +7245,7 @@
     {
         "name": "Asia/Brunei",
         "country_code": "BN",
+        "utc_offset_minutes": 480,
         "cities": [
             {
                 "name": "Bandar Seri Begawan",
@@ -7336,6 +7381,7 @@
     {
         "name": "America/La_Paz",
         "country_code": "BO",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "La Paz",
@@ -7586,6 +7632,7 @@
     {
         "name": "America/Kralendijk",
         "country_code": "BQ",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Kralendijk",
@@ -7615,6 +7662,7 @@
     {
         "name": "America/Fortaleza",
         "country_code": "BR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Fortaleza",
@@ -7851,6 +7899,7 @@
     {
         "name": "America/Recife",
         "country_code": "BR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Recife",
@@ -7960,6 +8009,7 @@
     {
         "name": "America/Belem",
         "country_code": "BR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Belém",
@@ -8117,6 +8167,7 @@
     {
         "name": "America/Maceio",
         "country_code": "BR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Maceió",
@@ -8242,6 +8293,7 @@
     {
         "name": "America/Manaus",
         "country_code": "BR",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Manaus",
@@ -8324,6 +8376,7 @@
     {
         "name": "America/Bahia",
         "country_code": "BR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Salvador",
@@ -8448,6 +8501,7 @@
     {
         "name": "America/Araguaina",
         "country_code": "BR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Palmas",
@@ -8519,6 +8573,7 @@
     {
         "name": "America/Santarem",
         "country_code": "BR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Santarém",
@@ -8575,6 +8630,7 @@
     {
         "name": "America/Sao_Paulo",
         "country_code": "BR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "São Paulo",
@@ -9017,6 +9073,7 @@
     {
         "name": "America/Cuiaba",
         "country_code": "BR",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Cuiabá",
@@ -9101,6 +9158,7 @@
     {
         "name": "America/Campo_Grande",
         "country_code": "BR",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Campo Grande",
@@ -9231,6 +9289,7 @@
     {
         "name": "America/Rio_Branco",
         "country_code": "BR",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Rio Branco",
@@ -9318,6 +9377,7 @@
     {
         "name": "America/Porto_Velho",
         "country_code": "BR",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Porto Velho",
@@ -9400,6 +9460,7 @@
     {
         "name": "America/Eirunepe",
         "country_code": "BR",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Benjamin Constant",
@@ -9427,6 +9488,7 @@
     {
         "name": "America/Boa_Vista",
         "country_code": "BR",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Boa Vista",
@@ -9499,6 +9561,7 @@
     {
         "name": "America/Nassau",
         "country_code": "BS",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Nassau",
@@ -9606,6 +9669,7 @@
     {
         "name": "Asia/Thimphu",
         "country_code": "BT",
+        "utc_offset_minutes": 360,
         "cities": [
             {
                 "name": "Thimphu",
@@ -9783,6 +9847,7 @@
     {
         "name": "Africa/Gaborone",
         "country_code": "BW",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Gaborone",
@@ -9986,6 +10051,7 @@
     {
         "name": "Europe/Minsk",
         "country_code": "BY",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Minsk",
@@ -10275,6 +10341,7 @@
     {
         "name": "America/Belize",
         "country_code": "BZ",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Belize City",
@@ -10454,6 +10521,7 @@
     {
         "name": "America/Vancouver",
         "country_code": "CA",
+        "utc_offset_minutes": -480,
         "cities": [
             {
                 "name": "Vancouver",
@@ -10652,6 +10720,7 @@
     {
         "name": "America/Toronto",
         "country_code": "CA",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Toronto",
@@ -10931,6 +11000,7 @@
     {
         "name": "America/Edmonton",
         "country_code": "CA",
+        "utc_offset_minutes": -420,
         "cities": [
             {
                 "name": "Calgary",
@@ -11175,6 +11245,7 @@
     {
         "name": "America/Halifax",
         "country_code": "CA",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Halifax",
@@ -11326,6 +11397,7 @@
     {
         "name": "America/Winnipeg",
         "country_code": "CA",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Winnipeg",
@@ -11481,6 +11553,7 @@
     {
         "name": "America/St_Johns",
         "country_code": "CA",
+        "utc_offset_minutes": -210,
         "cities": [
             {
                 "name": "St. John's",
@@ -11560,6 +11633,7 @@
     {
         "name": "America/Moncton",
         "country_code": "CA",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Moncton",
@@ -11689,6 +11763,7 @@
     {
         "name": "America/Dawson_Creek",
         "country_code": "CA",
+        "utc_offset_minutes": -420,
         "cities": [
             {
                 "name": "Fort St. John",
@@ -11706,6 +11781,7 @@
     {
         "name": "America/Glace_Bay",
         "country_code": "CA",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Sydney",
@@ -11783,6 +11859,7 @@
     {
         "name": "America/Regina",
         "country_code": "CA",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Saskatoon",
@@ -11895,6 +11972,7 @@
     {
         "name": "America/Swift_Current",
         "country_code": "CA",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Swift Current",
@@ -11953,6 +12031,7 @@
     {
         "name": "America/Whitehorse",
         "country_code": "CA",
+        "utc_offset_minutes": -420,
         "cities": [
             {
                 "name": "Whitehorse",
@@ -12018,6 +12097,7 @@
     {
         "name": "Indian/Cocos",
         "country_code": "CC",
+        "utc_offset_minutes": 390,
         "cities": [
             {
                 "name": "West Island",
@@ -12031,6 +12111,7 @@
     {
         "name": "Africa/Lubumbashi",
         "country_code": "CD",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Lubumbashi",
@@ -12227,6 +12308,7 @@
     {
         "name": "Africa/Kinshasa",
         "country_code": "CD",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Kinshasa",
@@ -12440,6 +12522,7 @@
     {
         "name": "Africa/Bangui",
         "country_code": "CF",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Bangui",
@@ -12557,6 +12640,7 @@
     {
         "name": "Africa/Brazzaville",
         "country_code": "CG",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Brazzaville",
@@ -12690,6 +12774,7 @@
     {
         "name": "Europe/Zurich",
         "country_code": "CH",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Zürich",
@@ -13038,6 +13123,7 @@
     {
         "name": "Africa/Abidjan",
         "country_code": "CI",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Abidjan",
@@ -13209,6 +13295,7 @@
     {
         "name": "Pacific/Rarotonga",
         "country_code": "CK",
+        "utc_offset_minutes": -600,
         "cities": [
             {
                 "name": "Avarua",
@@ -13260,6 +13347,7 @@
     {
         "name": "America/Santiago",
         "country_code": "CL",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Santiago",
@@ -13401,6 +13489,7 @@
     {
         "name": "America/Punta_Arenas",
         "country_code": "CL",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Punta Arenas",
@@ -13525,6 +13614,7 @@
     {
         "name": "America/Coyhaique",
         "country_code": "CL",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Coyhaique",
@@ -13572,6 +13662,7 @@
     {
         "name": "Africa/Douala",
         "country_code": "CM",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Douala",
@@ -13799,6 +13890,7 @@
     {
         "name": "Asia/Shanghai",
         "country_code": "CN",
+        "utc_offset_minutes": 480,
         "cities": [
             {
                 "name": "Shanghai",
@@ -14166,6 +14258,7 @@
     {
         "name": "Asia/Urumqi",
         "country_code": "CN",
+        "utc_offset_minutes": 360,
         "cities": [
             {
                 "name": "Ürümqi",
@@ -14314,6 +14407,7 @@
     {
         "name": "Asia/Macau",
         "country_code": "CN",
+        "utc_offset_minutes": 480,
         "cities": [
             {
                 "name": "Macau",
@@ -14427,6 +14521,7 @@
     {
         "name": "America/Bogota",
         "country_code": "CO",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Bogotá",
@@ -14737,6 +14832,7 @@
     {
         "name": "America/Costa_Rica",
         "country_code": "CR",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "San José",
@@ -14905,6 +15001,7 @@
     {
         "name": "America/Havana",
         "country_code": "CU",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Havana",
@@ -15156,6 +15253,7 @@
     {
         "name": "Atlantic/Cape_Verde",
         "country_code": "CV",
+        "utc_offset_minutes": -60,
         "cities": [
             {
                 "name": "Praia",
@@ -15335,6 +15433,7 @@
     {
         "name": "America/Curacao",
         "country_code": "CW",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Willemstad",
@@ -15391,6 +15490,7 @@
     {
         "name": "Indian/Christmas",
         "country_code": "CX",
+        "utc_offset_minutes": 420,
         "cities": [
             {
                 "name": "Flying Fish Cove",
@@ -15424,6 +15524,7 @@
     {
         "name": "Asia/Famagusta",
         "country_code": "CY",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Famagusta",
@@ -15567,6 +15668,7 @@
     {
         "name": "Asia/Nicosia",
         "country_code": "CY",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Nicosia",
@@ -15820,6 +15922,7 @@
     {
         "name": "Europe/Prague",
         "country_code": "CZ",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Prague",
@@ -16098,6 +16201,7 @@
     {
         "name": "Europe/Berlin",
         "country_code": "DE",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Berlin",
@@ -16523,6 +16627,7 @@
     {
         "name": "Africa/Djibouti",
         "country_code": "DJ",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Djibouti",
@@ -16726,6 +16831,7 @@
     {
         "name": "Europe/Copenhagen",
         "country_code": "DK",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Copenhagen",
@@ -16964,6 +17070,7 @@
     {
         "name": "America/Dominica",
         "country_code": "DM",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Roseau",
@@ -17026,6 +17133,7 @@
     {
         "name": "America/Santo_Domingo",
         "country_code": "DO",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Santo Domingo",
@@ -17136,6 +17244,7 @@
     {
         "name": "Africa/Algiers",
         "country_code": "DZ",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Algiers",
@@ -17416,6 +17525,7 @@
     {
         "name": "America/Guayaquil",
         "country_code": "EC",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Quito",
@@ -17634,6 +17744,7 @@
     {
         "name": "Europe/Tallinn",
         "country_code": "EE",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Tallinn",
@@ -17849,6 +17960,7 @@
     {
         "name": "Africa/Cairo",
         "country_code": "EG",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Cairo",
@@ -18076,6 +18188,7 @@
     {
         "name": "Africa/El_Aaiun",
         "country_code": "EH",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Laayoune",
@@ -18138,6 +18251,7 @@
     {
         "name": "Africa/Asmara",
         "country_code": "ER",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Asmara",
@@ -18272,6 +18386,7 @@
     {
         "name": "Europe/Madrid",
         "country_code": "ES",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Madrid",
@@ -18700,6 +18815,7 @@
     {
         "name": "Atlantic/Canary",
         "country_code": "ES",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Las Palmas de Gran Canaria",
@@ -18821,6 +18937,7 @@
     {
         "name": "Africa/Ceuta",
         "country_code": "ES",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Melilla",
@@ -18883,6 +19000,7 @@
     {
         "name": "Africa/Addis_Ababa",
         "country_code": "ET",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Addis Ababa",
@@ -19018,6 +19136,7 @@
     {
         "name": "Europe/Helsinki",
         "country_code": "FI",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Helsinki",
@@ -19255,6 +19374,7 @@
     {
         "name": "Pacific/Fiji",
         "country_code": "FJ",
+        "utc_offset_minutes": 720,
         "cities": [
             {
                 "name": "Nasinu",
@@ -19358,6 +19478,7 @@
     {
         "name": "Atlantic/Stanley",
         "country_code": "FK",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Stanley",
@@ -19412,6 +19533,7 @@
     {
         "name": "Pacific/Pohnpei",
         "country_code": "FM",
+        "utc_offset_minutes": 660,
         "cities": [
             {
                 "name": "Palikir",
@@ -19450,6 +19572,7 @@
     {
         "name": "Atlantic/Faroe",
         "country_code": "FO",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Tórshavn",
@@ -19515,6 +19638,7 @@
     {
         "name": "Europe/Paris",
         "country_code": "FR",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Paris",
@@ -19940,6 +20064,7 @@
     {
         "name": "Africa/Libreville",
         "country_code": "GA",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Libreville",
@@ -20063,6 +20188,7 @@
     {
         "name": "Europe/London",
         "country_code": "GB",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "London",
@@ -20481,6 +20607,7 @@
     {
         "name": "America/Grenada",
         "country_code": "GD",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Saint George's",
@@ -20514,6 +20641,7 @@
     {
         "name": "Asia/Tbilisi",
         "country_code": "GE",
+        "utc_offset_minutes": 240,
         "cities": [
             {
                 "name": "Tbilisi",
@@ -20712,6 +20840,7 @@
     {
         "name": "Europe/Moscow",
         "country_code": "GE",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Moscow",
@@ -21038,6 +21167,7 @@
     {
         "name": "America/Cayenne",
         "country_code": "GF",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Cayenne",
@@ -21137,6 +21267,7 @@
     {
         "name": "Europe/Guernsey",
         "country_code": "GG",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Saint Peter Port",
@@ -21183,6 +21314,7 @@
     {
         "name": "Africa/Accra",
         "country_code": "GH",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Kumasi",
@@ -21337,6 +21469,7 @@
     {
         "name": "Europe/Gibraltar",
         "country_code": "GI",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Gibraltar",
@@ -21398,6 +21531,7 @@
     {
         "name": "America/Nuuk",
         "country_code": "GL",
+        "utc_offset_minutes": -120,
         "cities": [
             {
                 "name": "Nuuk",
@@ -21476,6 +21610,7 @@
     {
         "name": "Africa/Banjul",
         "country_code": "GM",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Serekunda",
@@ -21538,6 +21673,7 @@
     {
         "name": "Africa/Conakry",
         "country_code": "GN",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Conakry",
@@ -21621,6 +21757,7 @@
     {
         "name": "America/Guadeloupe",
         "country_code": "GP",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Les Abymes",
@@ -21670,6 +21807,7 @@
     {
         "name": "Africa/Malabo",
         "country_code": "GQ",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Bata",
@@ -21805,6 +21943,7 @@
     {
         "name": "Europe/Athens",
         "country_code": "GR",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Athens",
@@ -22015,6 +22154,7 @@
     {
         "name": "Atlantic/South_Georgia",
         "country_code": "GS",
+        "utc_offset_minutes": -120,
         "cities": [
             {
                 "name": "Grytviken",
@@ -22055,6 +22195,7 @@
     {
         "name": "America/Guatemala",
         "country_code": "GT",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Guatemala City",
@@ -22124,6 +22265,7 @@
     {
         "name": "Pacific/Guam",
         "country_code": "GU",
+        "utc_offset_minutes": 600,
         "cities": [
             {
                 "name": "Dededo Village",
@@ -22155,6 +22297,7 @@
     {
         "name": "Africa/Bissau",
         "country_code": "GW",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Bissau",
@@ -22248,6 +22391,7 @@
     {
         "name": "America/Guyana",
         "country_code": "GY",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Georgetown",
@@ -22333,6 +22477,7 @@
     {
         "name": "Asia/Hong_Kong",
         "country_code": "HK",
+        "utc_offset_minutes": 480,
         "cities": [
             {
                 "name": "Hong Kong",
@@ -22456,6 +22601,7 @@
     {
         "name": "America/Tegucigalpa",
         "country_code": "HN",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Tegucigalpa",
@@ -22571,6 +22717,7 @@
     {
         "name": "Europe/Zagreb",
         "country_code": "HR",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Zagreb",
@@ -22793,6 +22940,7 @@
     {
         "name": "America/Port-au-Prince",
         "country_code": "HT",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Port-au-Prince",
@@ -22892,6 +23040,7 @@
     {
         "name": "Europe/Budapest",
         "country_code": "HU",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Budapest",
@@ -23127,6 +23276,7 @@
     {
         "name": "Asia/Jakarta",
         "country_code": "ID",
+        "utc_offset_minutes": 420,
         "cities": [
             {
                 "name": "Jakarta",
@@ -23366,6 +23516,7 @@
     {
         "name": "Asia/Makassar",
         "country_code": "ID",
+        "utc_offset_minutes": 480,
         "cities": [
             {
                 "name": "Makassar",
@@ -23486,6 +23637,7 @@
     {
         "name": "Asia/Jayapura",
         "country_code": "ID",
+        "utc_offset_minutes": 540,
         "cities": [
             {
                 "name": "Jayapura",
@@ -23573,6 +23725,7 @@
     {
         "name": "Asia/Pontianak",
         "country_code": "ID",
+        "utc_offset_minutes": 420,
         "cities": [
             {
                 "name": "Pontianak",
@@ -23634,6 +23787,7 @@
     {
         "name": "Asia/Ho_Chi_Minh",
         "country_code": "ID",
+        "utc_offset_minutes": 420,
         "cities": [
             {
                 "name": "Ho Chi Minh City",
@@ -23799,6 +23953,7 @@
     {
         "name": "Europe/Dublin",
         "country_code": "IE",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Dublin",
@@ -24028,6 +24183,7 @@
     {
         "name": "Asia/Jerusalem",
         "country_code": "IL",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Jerusalem",
@@ -24370,6 +24526,7 @@
     {
         "name": "Europe/Isle_of_Man",
         "country_code": "IM",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Douglas",
@@ -24421,6 +24578,7 @@
     {
         "name": "Asia/Kolkata",
         "country_code": "IN",
+        "utc_offset_minutes": 330,
         "cities": [
             {
                 "name": "Mumbai",
@@ -24723,6 +24881,7 @@
     {
         "name": "Asia/Baghdad",
         "country_code": "IQ",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Baghdad",
@@ -24877,6 +25036,7 @@
     {
         "name": "Asia/Tehran",
         "country_code": "IR",
+        "utc_offset_minutes": 210,
         "cities": [
             {
                 "name": "Tehran",
@@ -25126,6 +25286,7 @@
     {
         "name": "Atlantic/Reykjavik",
         "country_code": "IS",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Reykjavík",
@@ -25321,6 +25482,7 @@
     {
         "name": "Europe/Rome",
         "country_code": "IT",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Rome",
@@ -25675,6 +25837,7 @@
     {
         "name": "Europe/Jersey",
         "country_code": "JE",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Saint Helier",
@@ -25692,6 +25855,7 @@
     {
         "name": "America/Jamaica",
         "country_code": "JM",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Kingston",
@@ -25746,6 +25910,7 @@
     {
         "name": "Asia/Amman",
         "country_code": "JO",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Amman",
@@ -25928,6 +26093,7 @@
     {
         "name": "Asia/Tokyo",
         "country_code": "JP",
+        "utc_offset_minutes": 540,
         "cities": [
             {
                 "name": "Tokyo",
@@ -26139,6 +26305,7 @@
     {
         "name": "Africa/Nairobi",
         "country_code": "KE",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Nairobi",
@@ -26429,6 +26596,7 @@
     {
         "name": "Asia/Bishkek",
         "country_code": "KG",
+        "utc_offset_minutes": 360,
         "cities": [
             {
                 "name": "Bishkek",
@@ -26660,6 +26828,7 @@
     {
         "name": "Asia/Phnom_Penh",
         "country_code": "KH",
+        "utc_offset_minutes": 420,
         "cities": [
             {
                 "name": "Phnom Penh",
@@ -26870,6 +27039,7 @@
     {
         "name": "Pacific/Tarawa",
         "country_code": "KI",
+        "utc_offset_minutes": 720,
         "cities": [
             {
                 "name": "Tarawa",
@@ -26895,6 +27065,7 @@
     {
         "name": "Indian/Comoro",
         "country_code": "KM",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Moroni",
@@ -27030,6 +27201,7 @@
     {
         "name": "America/St_Kitts",
         "country_code": "KN",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Basseterre",
@@ -27088,6 +27260,7 @@
     {
         "name": "Asia/Pyongyang",
         "country_code": "KP",
+        "utc_offset_minutes": 540,
         "cities": [
             {
                 "name": "Pyongyang",
@@ -27265,6 +27438,7 @@
     {
         "name": "Asia/Seoul",
         "country_code": "KR",
+        "utc_offset_minutes": 540,
         "cities": [
             {
                 "name": "Seoul",
@@ -27566,6 +27740,7 @@
     {
         "name": "Asia/Kuwait",
         "country_code": "KW",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Al Aḩmadī",
@@ -27653,6 +27828,7 @@
     {
         "name": "America/Cayman",
         "country_code": "KY",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "George Town",
@@ -27738,6 +27914,7 @@
     {
         "name": "Asia/Aqtau",
         "country_code": "KZ",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Aktau",
@@ -27811,6 +27988,7 @@
     {
         "name": "Asia/Aqtobe",
         "country_code": "KZ",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Aktobe",
@@ -27884,6 +28062,7 @@
     {
         "name": "Asia/Atyrau",
         "country_code": "KZ",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Atyrau",
@@ -27970,6 +28149,7 @@
     {
         "name": "Asia/Oral",
         "country_code": "KZ",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Oral",
@@ -28039,6 +28219,7 @@
     {
         "name": "Asia/Almaty",
         "country_code": "KZ",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Almaty",
@@ -28282,6 +28463,7 @@
     {
         "name": "Asia/Qyzylorda",
         "country_code": "KZ",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Kyzylorda",
@@ -28392,6 +28574,7 @@
     {
         "name": "Asia/Qostanay",
         "country_code": "KZ",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Kostanay",
@@ -28513,6 +28696,7 @@
     {
         "name": "Asia/Vientiane",
         "country_code": "LA",
+        "utc_offset_minutes": 420,
         "cities": [
             {
                 "name": "Vientiane",
@@ -28718,6 +28902,7 @@
     {
         "name": "Asia/Beirut",
         "country_code": "LB",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Beirut",
@@ -28975,6 +29160,7 @@
     {
         "name": "America/St_Lucia",
         "country_code": "LC",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Gros Islet",
@@ -29068,6 +29254,7 @@
     {
         "name": "Europe/Vaduz",
         "country_code": "LI",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Vaduz",
@@ -29126,6 +29313,7 @@
     {
         "name": "Asia/Colombo",
         "country_code": "LK",
+        "utc_offset_minutes": 330,
         "cities": [
             {
                 "name": "Colombo",
@@ -29321,6 +29509,7 @@
     {
         "name": "Africa/Monrovia",
         "country_code": "LR",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Monrovia",
@@ -29475,6 +29664,7 @@
     {
         "name": "Africa/Maseru",
         "country_code": "LS",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Maseru",
@@ -29613,6 +29803,7 @@
     {
         "name": "Europe/Vilnius",
         "country_code": "LT",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Vilnius",
@@ -29904,6 +30095,7 @@
     {
         "name": "Europe/Luxembourg",
         "country_code": "LU",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Luxembourg",
@@ -30065,6 +30257,7 @@
     {
         "name": "Europe/Riga",
         "country_code": "LV",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Riga",
@@ -30345,6 +30538,7 @@
     {
         "name": "Africa/Tripoli",
         "country_code": "LY",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Tripoli",
@@ -30544,6 +30738,7 @@
     {
         "name": "Africa/Casablanca",
         "country_code": "MA",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Casablanca",
@@ -30805,6 +31000,7 @@
     {
         "name": "Europe/Monaco",
         "country_code": "MC",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Monaco",
@@ -30842,6 +31038,7 @@
     {
         "name": "Europe/Chisinau",
         "country_code": "MD",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Chisinau",
@@ -31055,6 +31252,7 @@
     {
         "name": "Europe/Podgorica",
         "country_code": "ME",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Podgorica",
@@ -31205,6 +31403,7 @@
     {
         "name": "America/Marigot",
         "country_code": "MF",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Marigot",
@@ -31238,6 +31437,7 @@
     {
         "name": "Indian/Antananarivo",
         "country_code": "MG",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Antananarivo",
@@ -31457,6 +31657,7 @@
     {
         "name": "Pacific/Majuro",
         "country_code": "MH",
+        "utc_offset_minutes": 720,
         "cities": [
             {
                 "name": "Majuro",
@@ -31479,6 +31680,7 @@
     {
         "name": "Europe/Skopje",
         "country_code": "MK",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Skopje",
@@ -31730,6 +31932,7 @@
     {
         "name": "Africa/Bamako",
         "country_code": "ML",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Bamako",
@@ -31871,6 +32074,7 @@
     {
         "name": "Asia/Yangon",
         "country_code": "MM",
+        "utc_offset_minutes": 390,
         "cities": [
             {
                 "name": "Yangon",
@@ -32060,6 +32264,7 @@
     {
         "name": "Asia/Hovd",
         "country_code": "MN",
+        "utc_offset_minutes": 420,
         "cities": [
             {
                 "name": "Ulaangom",
@@ -32208,6 +32413,7 @@
     {
         "name": "Asia/Ulaanbaatar",
         "country_code": "MN",
+        "utc_offset_minutes": 480,
         "cities": [
             {
                 "name": "Ulan Bator",
@@ -32399,6 +32605,7 @@
     {
         "name": "Pacific/Saipan",
         "country_code": "MP",
+        "utc_offset_minutes": 600,
         "cities": [
             {
                 "name": "Saipan",
@@ -32415,6 +32622,7 @@
     {
         "name": "America/Martinique",
         "country_code": "MQ",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Fort-de-France",
@@ -32498,6 +32706,7 @@
     {
         "name": "Africa/Nouakchott",
         "country_code": "MR",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Nouakchott",
@@ -32694,6 +32903,7 @@
     {
         "name": "America/Montserrat",
         "country_code": "MS",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Brades",
@@ -32757,6 +32967,7 @@
     {
         "name": "Europe/Malta",
         "country_code": "MT",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "San Pawl il-Baħar",
@@ -32928,6 +33139,7 @@
     {
         "name": "Indian/Mauritius",
         "country_code": "MU",
+        "utc_offset_minutes": 240,
         "cities": [
             {
                 "name": "Port Louis",
@@ -33057,6 +33269,7 @@
     {
         "name": "Indian/Maldives",
         "country_code": "MV",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Male",
@@ -33102,6 +33315,7 @@
     {
         "name": "Africa/Blantyre",
         "country_code": "MW",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Lilongwe",
@@ -33284,6 +33498,7 @@
     {
         "name": "America/Monterrey",
         "country_code": "MX",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Monterrey",
@@ -33474,6 +33689,7 @@
     {
         "name": "America/Mexico_City",
         "country_code": "MX",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Mexico City",
@@ -33625,6 +33841,7 @@
     {
         "name": "America/Merida",
         "country_code": "MX",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Mérida",
@@ -33799,6 +34016,7 @@
     {
         "name": "America/Cancun",
         "country_code": "MX",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Cancún",
@@ -33964,6 +34182,7 @@
     {
         "name": "America/Matamoros",
         "country_code": "MX",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Reynosa",
@@ -34046,6 +34265,7 @@
     {
         "name": "America/Hermosillo",
         "country_code": "MX",
+        "utc_offset_minutes": -420,
         "cities": [
             {
                 "name": "Hermosillo",
@@ -34155,6 +34375,7 @@
     {
         "name": "America/Mazatlan",
         "country_code": "MX",
+        "utc_offset_minutes": -420,
         "cities": [
             {
                 "name": "Culiacán",
@@ -34306,6 +34527,7 @@
     {
         "name": "America/Tijuana",
         "country_code": "MX",
+        "utc_offset_minutes": -480,
         "cities": [
             {
                 "name": "Tijuana",
@@ -34444,6 +34666,7 @@
     {
         "name": "America/Ojinaga",
         "country_code": "MX",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Ojinaga",
@@ -34458,6 +34681,7 @@
     {
         "name": "America/Chihuahua",
         "country_code": "MX",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Chihuahua",
@@ -34590,6 +34814,7 @@
     {
         "name": "America/Bahia_Banderas",
         "country_code": "MX",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Mezcales",
@@ -34606,6 +34831,7 @@
     {
         "name": "America/Ciudad_Juarez",
         "country_code": "MX",
+        "utc_offset_minutes": -420,
         "cities": [
             {
                 "name": "Ciudad Juárez",
@@ -34653,6 +34879,7 @@
     {
         "name": "Asia/Kuala_Lumpur",
         "country_code": "MY",
+        "utc_offset_minutes": 480,
         "cities": [
             {
                 "name": "Kuala Lumpur",
@@ -34810,6 +35037,7 @@
     {
         "name": "Asia/Kuching",
         "country_code": "MY",
+        "utc_offset_minutes": 480,
         "cities": [
             {
                 "name": "Kota Kinabalu",
@@ -34943,6 +35171,7 @@
     {
         "name": "Africa/Maputo",
         "country_code": "MZ",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Maputo",
@@ -35148,6 +35377,7 @@
     {
         "name": "Africa/Windhoek",
         "country_code": "NA",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Windhoek",
@@ -35340,6 +35570,7 @@
     {
         "name": "Pacific/Noumea",
         "country_code": "NC",
+        "utc_offset_minutes": 660,
         "cities": [
             {
                 "name": "Nouméa",
@@ -35398,6 +35629,7 @@
     {
         "name": "Africa/Niamey",
         "country_code": "NE",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Niamey",
@@ -35590,6 +35822,7 @@
     {
         "name": "Pacific/Norfolk",
         "country_code": "NF",
+        "utc_offset_minutes": 660,
         "cities": [
             {
                 "name": "Kingston",
@@ -35630,6 +35863,7 @@
     {
         "name": "Africa/Lagos",
         "country_code": "NG",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Lagos",
@@ -35919,6 +36153,7 @@
     {
         "name": "America/Managua",
         "country_code": "NI",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Managua",
@@ -36108,6 +36343,7 @@
     {
         "name": "Europe/Amsterdam",
         "country_code": "NL",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Rotterdam",
@@ -36409,6 +36645,7 @@
     {
         "name": "Europe/Oslo",
         "country_code": "NO",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Oslo",
@@ -36700,6 +36937,7 @@
     {
         "name": "Asia/Kathmandu",
         "country_code": "NP",
+        "utc_offset_minutes": 345,
         "cities": [
             {
                 "name": "Kathmandu",
@@ -36920,6 +37158,7 @@
     {
         "name": "Pacific/Nauru",
         "country_code": "NR",
+        "utc_offset_minutes": 720,
         "cities": [
             {
                 "name": "Yaren",
@@ -36960,6 +37199,7 @@
     {
         "name": "Pacific/Niue",
         "country_code": "NU",
+        "utc_offset_minutes": -660,
         "cities": [
             {
                 "name": "Alofi",
@@ -37002,6 +37242,7 @@
     {
         "name": "Pacific/Auckland",
         "country_code": "NZ",
+        "utc_offset_minutes": 720,
         "cities": [
             {
                 "name": "Auckland",
@@ -37220,6 +37461,7 @@
     {
         "name": "Asia/Muscat",
         "country_code": "OM",
+        "utc_offset_minutes": 240,
         "cities": [
             {
                 "name": "Muscat",
@@ -37348,6 +37590,7 @@
     {
         "name": "America/Panama",
         "country_code": "PA",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Panama City",
@@ -37447,6 +37690,7 @@
     {
         "name": "America/Lima",
         "country_code": "PE",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Lima",
@@ -37706,6 +37950,7 @@
     {
         "name": "Pacific/Tahiti",
         "country_code": "PF",
+        "utc_offset_minutes": -600,
         "cities": [
             {
                 "name": "Faaa",
@@ -37766,6 +38011,7 @@
     {
         "name": "Pacific/Port_Moresby",
         "country_code": "PG",
+        "utc_offset_minutes": 600,
         "cities": [
             {
                 "name": "Port Moresby",
@@ -37939,6 +38185,7 @@
     {
         "name": "Pacific/Bougainville",
         "country_code": "PG",
+        "utc_offset_minutes": 660,
         "cities": [
             {
                 "name": "Arawa",
@@ -37951,6 +38198,7 @@
     {
         "name": "Asia/Manila",
         "country_code": "PH",
+        "utc_offset_minutes": 480,
         "cities": [
             {
                 "name": "Quezon City",
@@ -38124,6 +38372,7 @@
     {
         "name": "Asia/Karachi",
         "country_code": "PK",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Lahore",
@@ -38422,6 +38671,7 @@
     {
         "name": "Europe/Warsaw",
         "country_code": "PL",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Warsaw",
@@ -38783,6 +39033,7 @@
     {
         "name": "America/Miquelon",
         "country_code": "PM",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Saint-Pierre",
@@ -38809,6 +39060,7 @@
     {
         "name": "Pacific/Pitcairn",
         "country_code": "PN",
+        "utc_offset_minutes": -480,
         "cities": [
             {
                 "name": "Adamstown",
@@ -38859,6 +39111,7 @@
     {
         "name": "America/Puerto_Rico",
         "country_code": "PR",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "San Juan",
@@ -39035,6 +39288,7 @@
     {
         "name": "Asia/Gaza",
         "country_code": "PS",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Gaza",
@@ -39150,6 +39404,7 @@
     {
         "name": "Asia/Hebron",
         "country_code": "PS",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "East Jerusalem",
@@ -39341,6 +39596,7 @@
     {
         "name": "Europe/Lisbon",
         "country_code": "PT",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Lisbon",
@@ -39574,6 +39830,7 @@
     {
         "name": "Atlantic/Madeira",
         "country_code": "PT",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Funchal",
@@ -39671,6 +39928,7 @@
     {
         "name": "Atlantic/Azores",
         "country_code": "PT",
+        "utc_offset_minutes": -60,
         "cities": [
             {
                 "name": "Ponta Delgada",
@@ -39723,6 +39981,7 @@
     {
         "name": "Pacific/Palau",
         "country_code": "PW",
+        "utc_offset_minutes": 540,
         "cities": [
             {
                 "name": "Ngerulmud",
@@ -39737,6 +39996,7 @@
     {
         "name": "America/Asuncion",
         "country_code": "PY",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Asunción",
@@ -39898,6 +40158,7 @@
     {
         "name": "Asia/Qatar",
         "country_code": "QA",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Doha",
@@ -40031,6 +40292,7 @@
     {
         "name": "Indian/Reunion",
         "country_code": "RE",
+        "utc_offset_minutes": 240,
         "cities": [
             {
                 "name": "Saint-Denis",
@@ -40083,6 +40345,7 @@
     {
         "name": "Europe/Bucharest",
         "country_code": "RO",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Bucharest",
@@ -40244,6 +40507,7 @@
     {
         "name": "Europe/Belgrade",
         "country_code": "RS",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Belgrade",
@@ -40480,6 +40744,7 @@
     {
         "name": "Asia/Yekaterinburg",
         "country_code": "RU",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Yekaterinburg",
@@ -40748,6 +41013,7 @@
     {
         "name": "Europe/Volgograd",
         "country_code": "RU",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Volgograd",
@@ -40900,6 +41166,7 @@
     {
         "name": "Europe/Samara",
         "country_code": "RU",
+        "utc_offset_minutes": 240,
         "cities": [
             {
                 "name": "Samara",
@@ -41126,6 +41393,7 @@
     {
         "name": "Europe/Kaliningrad",
         "country_code": "RU",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Kaliningrad",
@@ -41283,6 +41551,7 @@
     {
         "name": "Europe/Saratov",
         "country_code": "RU",
+        "utc_offset_minutes": 240,
         "cities": [
             {
                 "name": "Saratov",
@@ -41440,6 +41709,7 @@
     {
         "name": "Europe/Kirov",
         "country_code": "RU",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Kirov",
@@ -41550,6 +41820,7 @@
     {
         "name": "Europe/Ulyanovsk",
         "country_code": "RU",
+        "utc_offset_minutes": 240,
         "cities": [
             {
                 "name": "Ulyanovsk",
@@ -41706,6 +41977,7 @@
     {
         "name": "Europe/Astrakhan",
         "country_code": "RU",
+        "utc_offset_minutes": 240,
         "cities": [
             {
                 "name": "Astrakhan",
@@ -41857,6 +42129,7 @@
     {
         "name": "Asia/Barnaul",
         "country_code": "RU",
+        "utc_offset_minutes": 420,
         "cities": [
             {
                 "name": "Barnaul",
@@ -42026,6 +42299,7 @@
     {
         "name": "Asia/Novokuznetsk",
         "country_code": "RU",
+        "utc_offset_minutes": 420,
         "cities": [
             {
                 "name": "Kemerovo",
@@ -42183,6 +42457,7 @@
     {
         "name": "Asia/Krasnoyarsk",
         "country_code": "RU",
+        "utc_offset_minutes": 420,
         "cities": [
             {
                 "name": "Krasnoyarsk",
@@ -42373,6 +42648,7 @@
     {
         "name": "Asia/Tomsk",
         "country_code": "RU",
+        "utc_offset_minutes": 420,
         "cities": [
             {
                 "name": "Tomsk",
@@ -42501,6 +42777,7 @@
     {
         "name": "Asia/Novosibirsk",
         "country_code": "RU",
+        "utc_offset_minutes": 420,
         "cities": [
             {
                 "name": "Novosibirsk",
@@ -42655,6 +42932,7 @@
     {
         "name": "Asia/Irkutsk",
         "country_code": "RU",
+        "utc_offset_minutes": 480,
         "cities": [
             {
                 "name": "Irkutsk",
@@ -42855,6 +43133,7 @@
     {
         "name": "Asia/Omsk",
         "country_code": "RU",
+        "utc_offset_minutes": 360,
         "cities": [
             {
                 "name": "Omsk",
@@ -42985,6 +43264,7 @@
     {
         "name": "Asia/Yakutsk",
         "country_code": "RU",
+        "utc_offset_minutes": 540,
         "cities": [
             {
                 "name": "Yakutsk",
@@ -43139,6 +43419,7 @@
     {
         "name": "Asia/Vladivostok",
         "country_code": "RU",
+        "utc_offset_minutes": 600,
         "cities": [
             {
                 "name": "Khabarovsk",
@@ -43334,6 +43615,7 @@
     {
         "name": "Asia/Chita",
         "country_code": "RU",
+        "utc_offset_minutes": 540,
         "cities": [
             {
                 "name": "Chita",
@@ -43414,6 +43696,7 @@
     {
         "name": "Asia/Kamchatka",
         "country_code": "RU",
+        "utc_offset_minutes": 720,
         "cities": [
             {
                 "name": "Petropavlovsk-Kamchatsky",
@@ -43534,6 +43817,7 @@
     {
         "name": "Asia/Sakhalin",
         "country_code": "RU",
+        "utc_offset_minutes": 660,
         "cities": [
             {
                 "name": "Yuzhno-Sakhalinsk",
@@ -43641,6 +43925,7 @@
     {
         "name": "Asia/Magadan",
         "country_code": "RU",
+        "utc_offset_minutes": 660,
         "cities": [
             {
                 "name": "Magadan",
@@ -43711,6 +43996,7 @@
     {
         "name": "Asia/Anadyr",
         "country_code": "RU",
+        "utc_offset_minutes": 720,
         "cities": [
             {
                 "name": "Anadyr",
@@ -43784,6 +44070,7 @@
     {
         "name": "Africa/Kigali",
         "country_code": "RW",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Kigali",
@@ -43889,6 +44176,7 @@
     {
         "name": "Asia/Riyadh",
         "country_code": "SA",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Jeddah",
@@ -44233,6 +44521,7 @@
     {
         "name": "Pacific/Guadalcanal",
         "country_code": "SB",
+        "utc_offset_minutes": 660,
         "cities": [
             {
                 "name": "Honiara",
@@ -44291,6 +44580,7 @@
     {
         "name": "Indian/Mahe",
         "country_code": "SC",
+        "utc_offset_minutes": 240,
         "cities": [
             {
                 "name": "Victoria",
@@ -44365,6 +44655,7 @@
     {
         "name": "Africa/Khartoum",
         "country_code": "SD",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Khartoum",
@@ -44524,6 +44815,7 @@
     {
         "name": "Europe/Stockholm",
         "country_code": "SE",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Stockholm",
@@ -44881,6 +45173,7 @@
     {
         "name": "Asia/Singapore",
         "country_code": "SG",
+        "utc_offset_minutes": 480,
         "cities": [
             {
                 "name": "Singapore",
@@ -44945,6 +45238,7 @@
     {
         "name": "Atlantic/St_Helena",
         "country_code": "SH",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Jamestown",
@@ -44992,6 +45286,7 @@
     {
         "name": "Europe/Ljubljana",
         "country_code": "SI",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Ljubljana",
@@ -45259,6 +45554,7 @@
     {
         "name": "Arctic/Longyearbyen",
         "country_code": "SJ",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Longyearbyen",
@@ -45314,6 +45610,7 @@
     {
         "name": "Europe/Bratislava",
         "country_code": "SK",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Bratislava",
@@ -45562,6 +45859,7 @@
     {
         "name": "Africa/Freetown",
         "country_code": "SL",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Freetown",
@@ -45759,6 +46057,7 @@
     {
         "name": "Europe/San_Marino",
         "country_code": "SM",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "San Marino",
@@ -45846,6 +46145,7 @@
     {
         "name": "Africa/Dakar",
         "country_code": "SN",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Dakar",
@@ -45940,6 +46240,7 @@
     {
         "name": "Africa/Mogadishu",
         "country_code": "SO",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Mogadishu",
@@ -46187,6 +46488,7 @@
     {
         "name": "America/Paramaribo",
         "country_code": "SR",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Paramaribo",
@@ -46266,6 +46568,7 @@
     {
         "name": "Africa/Juba",
         "country_code": "SS",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Juba",
@@ -46351,6 +46654,7 @@
     {
         "name": "Africa/Sao_Tome",
         "country_code": "ST",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "São Tomé",
@@ -46427,6 +46731,7 @@
     {
         "name": "America/El_Salvador",
         "country_code": "SV",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "San Salvador",
@@ -46589,6 +46894,7 @@
     {
         "name": "America/Lower_Princes",
         "country_code": "SX",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Philipsburg",
@@ -46667,6 +46973,7 @@
     {
         "name": "Asia/Damascus",
         "country_code": "SY",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Aleppo",
@@ -47010,6 +47317,7 @@
     {
         "name": "Africa/Mbabane",
         "country_code": "SZ",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Manzini",
@@ -47143,6 +47451,7 @@
     {
         "name": "America/Grand_Turk",
         "country_code": "TC",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Providenciales",
@@ -47186,6 +47495,7 @@
     {
         "name": "Africa/Ndjamena",
         "country_code": "TD",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "N'Djamena",
@@ -47360,6 +47670,7 @@
     {
         "name": "Indian/Kerguelen",
         "country_code": "TF",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Port-aux-Français",
@@ -47382,6 +47693,7 @@
     {
         "name": "Africa/Lome",
         "country_code": "TG",
+        "utc_offset_minutes": 0,
         "cities": [
             {
                 "name": "Lomé",
@@ -47577,6 +47889,7 @@
     {
         "name": "Asia/Bangkok",
         "country_code": "TH",
+        "utc_offset_minutes": 420,
         "cities": [
             {
                 "name": "Hanoi",
@@ -47893,6 +48206,7 @@
     {
         "name": "Asia/Dushanbe",
         "country_code": "TJ",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Dushanbe",
@@ -47990,6 +48304,7 @@
     {
         "name": "Asia/Dili",
         "country_code": "TL",
+        "utc_offset_minutes": 540,
         "cities": [
             {
                 "name": "Dili",
@@ -48250,6 +48565,7 @@
     {
         "name": "Asia/Ashgabat",
         "country_code": "TM",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Ashgabat",
@@ -48517,6 +48833,7 @@
     {
         "name": "Africa/Tunis",
         "country_code": "TN",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Tunis",
@@ -48779,6 +49096,7 @@
     {
         "name": "Pacific/Tongatapu",
         "country_code": "TO",
+        "utc_offset_minutes": 780,
         "cities": [
             {
                 "name": "Nuku‘alofa",
@@ -48820,6 +49138,7 @@
     {
         "name": "Europe/Istanbul",
         "country_code": "TR",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Istanbul",
@@ -49126,6 +49445,7 @@
     {
         "name": "America/Port_of_Spain",
         "country_code": "TT",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Chaguanas",
@@ -49270,6 +49590,7 @@
     {
         "name": "Pacific/Funafuti",
         "country_code": "TV",
+        "utc_offset_minutes": 720,
         "cities": [
             {
                 "name": "Funafuti",
@@ -49289,6 +49610,7 @@
     {
         "name": "Asia/Taipei",
         "country_code": "TW",
+        "utc_offset_minutes": 480,
         "cities": [
             {
                 "name": "Taipei",
@@ -49441,6 +49763,7 @@
     {
         "name": "Africa/Dar_es_Salaam",
         "country_code": "TZ",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Dar es Salaam",
@@ -49689,6 +50012,7 @@
     {
         "name": "Europe/Kyiv",
         "country_code": "UA",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Kyiv",
@@ -50001,6 +50325,7 @@
     {
         "name": "Europe/Simferopol",
         "country_code": "UA",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Sevastopol",
@@ -50198,6 +50523,7 @@
     {
         "name": "Africa/Kampala",
         "country_code": "UG",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Kampala",
@@ -50292,6 +50618,7 @@
     {
         "name": "America/New_York",
         "country_code": "US",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "New York City",
@@ -50547,6 +50874,7 @@
     {
         "name": "America/Chicago",
         "country_code": "US",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Chicago",
@@ -50881,6 +51209,7 @@
     {
         "name": "America/Indiana/Indianapolis",
         "country_code": "US",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Indianapolis",
@@ -51030,6 +51359,7 @@
     {
         "name": "America/Kentucky/Louisville",
         "country_code": "US",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Louisville",
@@ -51112,6 +51442,7 @@
     {
         "name": "America/Indiana/Vincennes",
         "country_code": "US",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Jasper",
@@ -51127,6 +51458,7 @@
     {
         "name": "America/Detroit",
         "country_code": "US",
+        "utc_offset_minutes": -300,
         "cities": [
             {
                 "name": "Detroit",
@@ -51375,6 +51707,7 @@
     {
         "name": "America/Los_Angeles",
         "country_code": "US",
+        "utc_offset_minutes": -480,
         "cities": [
             {
                 "name": "Los Angeles",
@@ -51746,6 +52079,7 @@
     {
         "name": "America/Phoenix",
         "country_code": "US",
+        "utc_offset_minutes": -420,
         "cities": [
             {
                 "name": "Phoenix",
@@ -52015,6 +52349,7 @@
     {
         "name": "America/Denver",
         "country_code": "US",
+        "utc_offset_minutes": -420,
         "cities": [
             {
                 "name": "Denver",
@@ -52250,6 +52585,7 @@
     {
         "name": "America/Juneau",
         "country_code": "US",
+        "utc_offset_minutes": -540,
         "cities": [
             {
                 "name": "Juneau",
@@ -52337,6 +52673,7 @@
     {
         "name": "America/Boise",
         "country_code": "US",
+        "utc_offset_minutes": -420,
         "cities": [
             {
                 "name": "Boise",
@@ -52508,6 +52845,7 @@
     {
         "name": "America/North_Dakota/New_Salem",
         "country_code": "US",
+        "utc_offset_minutes": -360,
         "cities": [
             {
                 "name": "Mandan",
@@ -52525,6 +52863,7 @@
     {
         "name": "Pacific/Honolulu",
         "country_code": "US",
+        "utc_offset_minutes": -600,
         "cities": [
             {
                 "name": "Honolulu",
@@ -52669,6 +53008,7 @@
     {
         "name": "America/Anchorage",
         "country_code": "US",
+        "utc_offset_minutes": -540,
         "cities": [
             {
                 "name": "Anchorage",
@@ -52862,6 +53202,7 @@
     {
         "name": "America/Montevideo",
         "country_code": "UY",
+        "utc_offset_minutes": -180,
         "cities": [
             {
                 "name": "Montevideo",
@@ -53069,6 +53410,7 @@
     {
         "name": "Asia/Samarkand",
         "country_code": "UZ",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Samarkand",
@@ -53318,6 +53660,7 @@
     {
         "name": "Asia/Tashkent",
         "country_code": "UZ",
+        "utc_offset_minutes": 300,
         "cities": [
             {
                 "name": "Tashkent",
@@ -53518,6 +53861,7 @@
     {
         "name": "Europe/Vatican",
         "country_code": "VA",
+        "utc_offset_minutes": 60,
         "cities": [
             {
                 "name": "Vatican City",
@@ -53541,6 +53885,7 @@
     {
         "name": "America/St_Vincent",
         "country_code": "VC",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Kingstown",
@@ -53614,6 +53959,7 @@
     {
         "name": "America/Caracas",
         "country_code": "VE",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Caracas",
@@ -53889,6 +54235,7 @@
     {
         "name": "America/Tortola",
         "country_code": "VG",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Road Town",
@@ -53934,6 +54281,7 @@
     {
         "name": "America/St_Thomas",
         "country_code": "VI",
+        "utc_offset_minutes": -240,
         "cities": [
             {
                 "name": "Saint Croix",
@@ -54016,6 +54364,7 @@
     {
         "name": "Pacific/Efate",
         "country_code": "VU",
+        "utc_offset_minutes": 660,
         "cities": [
             {
                 "name": "Port-Vila",
@@ -54058,6 +54407,7 @@
     {
         "name": "Pacific/Wallis",
         "country_code": "WF",
+        "utc_offset_minutes": 720,
         "cities": [
             {
                 "name": "Mata-Utu",
@@ -54094,6 +54444,7 @@
     {
         "name": "Pacific/Apia",
         "country_code": "WS",
+        "utc_offset_minutes": 780,
         "cities": [
             {
                 "name": "Apia",
@@ -54148,6 +54499,7 @@
     {
         "name": "Asia/Aden",
         "country_code": "YE",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Sanaa",
@@ -54336,6 +54688,7 @@
     {
         "name": "Indian/Mayotte",
         "country_code": "YT",
+        "utc_offset_minutes": 180,
         "cities": [
             {
                 "name": "Mamoudzou",
@@ -54404,6 +54757,7 @@
     {
         "name": "Africa/Johannesburg",
         "country_code": "ZA",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Johannesburg",
@@ -54866,6 +55220,7 @@
     {
         "name": "Africa/Lusaka",
         "country_code": "ZM",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Lusaka",
@@ -55056,6 +55411,7 @@
     {
         "name": "Africa/Harare",
         "country_code": "ZW",
+        "utc_offset_minutes": 120,
         "cities": [
             {
                 "name": "Harare",

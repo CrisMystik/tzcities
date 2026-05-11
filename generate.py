@@ -1,5 +1,6 @@
 import csv
 from dataclasses import dataclass
+from datetime import datetime
 from io import TextIOWrapper
 import json
 import os
@@ -7,6 +8,7 @@ import requests
 import sys
 from typing import Any
 from zipfile import ZipFile
+from zoneinfo import ZoneInfo
 
 @dataclass
 class GeoName:
@@ -137,11 +139,22 @@ with alternate_names_archive.open('alternateNamesV2.txt', 'r') as alternate_file
             )
             cities_alternate_names[geoname_id][iso_language].append(alt_name)
 
+def get_utc_offset_minutes(zinfo: ZoneInfo) -> int:
+    now = datetime.now(zinfo)
+    utc_offset = zinfo.utcoffset(now)
+    if utc_offset is None:
+        raise TypeError(f'offset not found: {zinfo}')
+    dst = zinfo.dst(now)
+    seconds = utc_offset.total_seconds() - (dst.total_seconds() if dst is not None else 0)
+    return int(seconds) // 60
+
 json_result: list[dict[str, Any]] = []
 for timezone in timezones.values():
+    zinfo = ZoneInfo(timezone.name)
     tres: dict[str, Any] = {
         'name': timezone.name,
         'country_code': timezone.country_code,
+        'utc_offset_minutes': get_utc_offset_minutes(zinfo),
         'cities': []
     }
     allowed_cities_ids = sorted(
